@@ -1,0 +1,16 @@
+.condition-radio-inputs-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 200px;
+}
+
+.condition-radio-input {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.condition-input {
+  width: 180px !important;
+}

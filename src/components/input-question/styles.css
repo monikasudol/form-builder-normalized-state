@@ -1,0 +1,27 @@
+.input-question,
+.input-type,
+.condition {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+@media (max-width: 750px) {
+  .input-question,
+  .input-type,
+  .condition {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 550px) {
+  .input-question,
+  .input-type,
+  .condition,
+  .Dropdown-root
+  input {
+    width: 370px;
+  }
+}

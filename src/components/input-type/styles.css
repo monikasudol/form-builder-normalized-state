@@ -1,0 +1,9 @@
+/* .input-type {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 300px;
+} */
+.input-type-warning {
+  color: rgb(168, 66, 66);
+};
